@@ -73,7 +73,7 @@ Paper: [Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Weibo](https
 - Time Period: 2019-12-01 00:00 - 2020-04-30 23:59 (GMT+8)
 - Keyowds: [totle of 179 selected keywords](./keywords/COVID-19.txt)
 - Amount: 
-40,893,953 tweets filter from 692,792,816 original tweets by keywords. 
+40,893,953 tweets filtered from 692,792,816 original tweets by keywords. 
 In addition, we also release all original tweets with GEO tag without keywords filtering, covering 45,902,071 tweets.
 - Date Format : [The description of fields](https://github.com/nghuyong/WeiboSpider/blob/master/.github/data_stracture.md#%E5%BE%AE%E5%8D%9A%E6%95%B0%E6%8D%AE)
 ```csv
